@@ -1,7 +1,7 @@
 # Home Cybersecurity Lab — Phase 1: Active Directory Environment Setup
 
 **Author:** Deja Roberts  
-**Date:** [MM/DD/YYYY]  
+**Date:** 06/17/2026  
 **Platform:** UTM on macOS (Apple Silicon M-series)  
 **Status:** [ ] In Progress / [ ] Complete
 
